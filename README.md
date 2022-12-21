@@ -82,18 +82,18 @@ details:
 
 # Output file explanantion
 ## The output file emitt.dat: give the evolution of the damping process
-1-nturns  = number of turns
-2-epsx  = rms e-beam horizontal emittance (unit=m)
-3-epsy = rms e-beam vertical emittance (unit=m)
-4-sigs = rms e-beam bunch length (unit=m)
-5-dponp = rms momentum spread
+    1-nturns  = number of turns
+    2-epsx  = rms e-beam horizontal emittance (unit=m)
+    3-epsy = rms e-beam vertical emittance (unit=m)
+    4-sigs = rms e-beam bunch length (unit=m)
+    5-dponp = rms momentum spread
 
 
 ## The output files ibs.dat: give the evolution of IBS rates, BBS rates and damping rates
-1- nturns  = number of turns
-2-4-sumx, sumy, sums = IBS rates (emittance) (unit=1/s)
-5-7-dampx, dampy, damps = Radiation damping rates (amplitude) (unit=1/s)
-8-10-bbsx, bbsy, bbss   =  BBS rates (emittance) (unit=1/s) 
+    1- nturns  = number of turns
+    2-4-sumx, sumy, sums = IBS rates (emittance) (unit=1/s)
+    5-7-dampx, dampy, damps = Radiation damping rates (amplitude) (unit=1/s)
+    8-10-bbsx, bbsy, bbss   =  BBS rates (emittance) (unit=1/s) 
 
 
 
