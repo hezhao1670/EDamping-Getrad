@@ -35,7 +35,7 @@ e-beam parameters calculation in a ring
 ## In windows, just compile the fortran code and run
 
 
-# Input file explanantion
+# Input file explanation
 
 ## The input file looks like:
     150. 273. 170. 1   3.06E-03 betax0,betay0,slen, ibstype, slipfactor  
